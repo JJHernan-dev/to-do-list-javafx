@@ -1,0 +1,17 @@
+/* Fila normal completada */
+.table-row-cell:completed {
+    -fx-background-color: #d4f8d4;
+}
+
+/* Fila completada seleccionada */
+.table-row-cell:completed:selected {
+    -fx-background-color: #b8ebb8;
+    -fx-text-fill: black;
+}
+
+/* Fila seleccionada (no completada) */
+.table-row-cell:filled:selected {
+    -fx-background-color: #4e99d8; /* Amarillo */
+    -fx-text-fill: black;
+}
+

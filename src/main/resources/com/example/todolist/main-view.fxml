@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="663.0" prefWidth="601.0" style="-fx-background-color: #0c7bb3;" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.todolist.controller.MainController">
+   <children>
+      <ImageView fitHeight="675.0" fitWidth="612.0" layoutX="-6.0" layoutY="-8.0" pickOnBounds="true">
+         <image>
+            <Image url="@images/img1.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="btnAddTask" layoutX="20.0" layoutY="86.0" mnemonicParsing="false" onAction="#onAddTask" prefHeight="41.0" prefWidth="156.0" text="AÑADIR TAREA">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <Button fx:id="btnDeleteTask" layoutX="20.0" layoutY="197.0" mnemonicParsing="false" onAction="#onDeleteTask" prefHeight="41.0" prefWidth="156.0" text="ELIMINAR">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <Button fx:id="btnMarkDone" layoutX="20.0" layoutY="253.0" mnemonicParsing="false" onAction="#onMarkDone" prefHeight="41.0" prefWidth="156.0" text="MARCAR COMPLETADA">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Button>
+      <TableView fx:id="tableView" layoutX="208.0" layoutY="86.0" prefHeight="436.0" prefWidth="358.0">
+        <columns>
+          <TableColumn fx:id="titleColumn" prefWidth="119.0" text="TÍTULO" />
+          <TableColumn fx:id="dateColumn" prefWidth="111.0" text="FECHA" />
+            <TableColumn fx:id="statusColumn" minWidth="5.0" prefWidth="127.0" text="ESTADO" />
+        </columns>
+      </TableView>
+      <Label layoutX="29.0" layoutY="23.0" prefHeight="17.0" prefWidth="282.0" text="GESTOR DE TAREAS">
+         <font>
+            <Font name="Corbel Bold" size="28.0" />
+         </font></Label>
+      <Label layoutX="14.0" layoutY="632.0" prefHeight="17.0" prefWidth="347.0" text="Juan Jesús González Hernández">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Button fx:id="btnViewTask" layoutX="20.0" layoutY="142.0" mnemonicParsing="false" onAction="#onViewTask" prefHeight="41.0" prefWidth="156.0" style="-fx-background-color: 7D7A7A;" text="VER TAREA">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font></Button>
+      <Label fx:id="lblTaskCount" layoutX="212.0" layoutY="529.0" text="Tareas: 0">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+   </children>
+</Pane>

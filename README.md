@@ -1,4 +1,4 @@
-# Gestor de Tareas (To-Do List) - JavaFX
+![Banner](images/todo-list-banner.svg)
 
 ## Descripción
 Aplicación de escritorio para gestionar tareas de manera sencilla y visual.  

@@ -1,0 +1,198 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Consolas','Menlo',monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5YzM0NGM0Yy0zMWRiLTQ2ZWQtODFhMy1mYzliOGJkZTAyZjIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHBZ7sOTlFKVZDCao3jdbBgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0M2IxMjFlNi02OWU5LTQ5YzAtOGJiYS1jZmFlOTk5YmIzNGRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoowTN0YqYnQJADohA+7lwQwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggkrV8Dr2TXS0sQzCINwsmf2+kqZ76LHeoqIA5N1dy+VGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLyz/blvVhQ0iL79WxOCfokAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCB9D1EXVVYEaOeAk7y47fK00tr4g+x2NVmNIcj39WjF7mRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi6Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjljMzQ0YzRjLTMxZGItNDZlZC04MWEzLWZjOWI4YmRlMDJmMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjZiZDBhZDU4LTI4NjUtNDE0NS04OTU2LWIyYWJhZTFmZTM1NXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCStXwOvZNdLSxDMIg3CyZ/b6Spnvosd6iogDk3V3L5UaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggHKeBT9pyaXYEsvWkfjZV2heAUIzcnhO6OVQGhIxb7wWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggc78y6H9H8uX5AODz85MEWExvxAZQWJfPPYKDJS5vmhp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDJdWkbK4fRD3FZxs9Gv62JJ7qoMFppZVQz26ZPNNnUniSLO32Rw4+0WcCc1GLev5tQELlgSVjeJaVMwzPiCUe0=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A130F"/>
+      <stop offset="55%" stop-color="#10221A"/>
+      <stop offset="100%" stop-color="#173225"/>
+    </linearGradient>
+    <linearGradient id="winGrad4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#14211A"/>
+      <stop offset="100%" stop-color="#0C1410"/>
+    </linearGradient>
+    <radialGradient id="glow4" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7EE787" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#7EE787" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow4b" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F5B942" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#F5B942" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette4" cx="50%" cy="50%" r="75%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+    <linearGradient id="sheenGrad4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softShadow4" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+    <clipPath id="clipAll4"><rect width="1200" height="300"/></clipPath>
+
+    <style>
+      @keyframes pulseGlow4 {
+        0%, 100% { opacity: 0.6; transform: scale(1); }
+        50%      { opacity: 1;   transform: scale(1.07); }
+      }
+      @keyframes winBob4 {
+        0%, 100% { transform: translateY(0px); }
+        50%      { transform: translateY(-6px); }
+      }
+      @keyframes sheenSweep4 {
+        0%   { transform: translateX(-140%); }
+        100% { transform: translateX(140%); }
+      }
+      @keyframes floatCheck {
+        0%   { opacity: 0;    transform: translateY(0px); }
+        20%  { opacity: 0.55; }
+        80%  { opacity: 0.55; }
+        100% { opacity: 0;    transform: translateY(-55px); }
+      }
+      .glow-a { transform-origin: 955px 148px; animation: pulseGlow4 4.6s ease-in-out infinite; }
+      .glow-b { transform-origin: 955px 148px; animation: pulseGlow4 3.8s ease-in-out infinite 0.5s; }
+      .window4 { animation: winBob4 5.2s ease-in-out infinite; }
+      .sheen4  { animation: sheenSweep4 7.5s linear infinite; }
+      .float   { opacity: 0; animation: floatCheck 7s ease-in-out infinite; }
+      .f2 { animation-delay: 1.4s; }
+      .f3 { animation-delay: 2.8s; }
+      .f4 { animation-delay: 4.2s; }
+      .f5 { animation-delay: 5.6s; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg4)"/>
+
+  <g clip-path="url(#clipAll4)">
+    <rect class="sheen4" x="-200" y="-100" width="260" height="600" fill="url(#sheenGrad4)" transform="rotate(20 600 150)"/>
+  </g>
+
+  <!-- checks flotando al fondo -->
+  <g fill="none" stroke="#7EE787" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(650,250)"><path class="float" d="M0 0 l5 5 l10 -11"/></g>
+    <g transform="translate(730,275)"><path class="float f2" d="M0 0 l5 5 l10 -11"/></g>
+    <g transform="translate(1125,255)"><path class="float f3" d="M0 0 l5 5 l10 -11"/></g>
+    <g transform="translate(1150,160)"><path class="float f4" d="M0 0 l5 5 l10 -11"/></g>
+    <g transform="translate(690,70)"><path class="float f5" d="M0 0 l5 5 l10 -11"/></g>
+  </g>
+
+  <circle class="glow-a" cx="955" cy="148" r="185" fill="url(#glow4)"/>
+  <circle class="glow-b" cx="955" cy="148" r="130" fill="url(#glow4b)"/>
+
+  <!-- ventana de escritorio -->
+  <g transform="translate(955,148)">
+  <g class="window4" filter="url(#softShadow4)">
+    <rect x="-125" y="-80" width="250" height="160" rx="8" fill="url(#winGrad4)" stroke="#2F4A3B" stroke-width="1"/>
+    <path d="M -125 -72 a8 8 0 0 1 8 -8 h234 a8 8 0 0 1 8 8 v14 h-250 z" fill="#0F1914"/>
+    <rect x="-116" y="-73" width="8" height="8" rx="2" fill="#7EE787"/>
+    <text x="-102" y="-66" font-size="9" fill="#9DB5A5" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Gestor de Tareas</text>
+    <g stroke="#9DB5A5" stroke-width="1" fill="none">
+      <line x1="82" y1="-69" x2="90" y2="-69"/>
+      <rect x="98" y="-73" width="8" height="8"/>
+      <line x1="112" y1="-73" x2="120" y2="-65"/>
+      <line x1="120" y1="-73" x2="112" y2="-65"/>
+    </g>
+
+    <!-- cabecera + contador dinámico -->
+    <text x="-113" y="-42" font-size="11" font-weight="700" fill="#EAF3ED" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Mis tareas</text>
+    <rect x="58" y="-53" width="55" height="15" rx="7.5" fill="#1B2B22" stroke="#2F4A3B"/>
+    <g font-size="9" fill="#7EE787" text-anchor="middle" font-weight="700" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+      <text x="85.5" y="-42.5">0 / 3
+        <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;0.12;0.13;0.95;0.96;1" dur="8s" repeatCount="indefinite"/></text>
+      <text x="85.5" y="-42.5" opacity="0">1 / 3
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.14;0.15;0.36;0.37;1" dur="8s" repeatCount="indefinite"/></text>
+      <text x="85.5" y="-42.5" opacity="0">2 / 3
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.39;0.40;0.61;0.62;1" dur="8s" repeatCount="indefinite"/></text>
+      <text x="85.5" y="-42.5" opacity="0">3 / 3
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.64;0.65;0.90;0.93;1" dur="8s" repeatCount="indefinite"/></text>
+    </g>
+
+    <!-- fila 1 -->
+    <rect x="-117" y="-23" width="234" height="22" rx="5" fill="#7EE787" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.09;0.09;0;0" keyTimes="0;0.12;0.18;0.90;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-110" y="-18" width="12" height="12" rx="3" fill="none" stroke="#4A6B58" stroke-width="1.4"/>
+    <path d="M -107.5 -12 l3.2 3.4 l6.3 -7.2" fill="none" stroke="#7EE787" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+      <animate attributeName="stroke-dashoffset" values="16;16;0;0;16;16" keyTimes="0;0.12;0.18;0.90;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <text x="-90" y="-8.5" font-size="10.5" fill="#DDE9E1" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Diseñar interfaz</text>
+    <text x="112" y="-8.5" font-size="8.5" fill="#6E8577" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">12 oct</text>
+    <rect x="-90" y="-12.5" width="0" height="1.3" fill="#7EE787" opacity="0.85">
+      <animate attributeName="width" values="0;0;82;82;0;0" keyTimes="0;0.14;0.20;0.90;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- fila 2 -->
+    <rect x="-117" y="3" width="234" height="22" rx="5" fill="#7EE787" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.09;0.09;0;0" keyTimes="0;0.37;0.43;0.90;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-110" y="8" width="12" height="12" rx="3" fill="none" stroke="#4A6B58" stroke-width="1.4"/>
+    <path d="M -107.5 14 l3.2 3.4 l6.3 -7.2" fill="none" stroke="#7EE787" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+      <animate attributeName="stroke-dashoffset" values="16;16;0;0;16;16" keyTimes="0;0.37;0.43;0.90;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <text x="-90" y="17.5" font-size="10.5" fill="#DDE9E1" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Añadir persistencia</text>
+    <text x="112" y="17.5" font-size="8.5" fill="#6E8577" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">14 oct</text>
+    <rect x="-90" y="13.5" width="0" height="1.3" fill="#7EE787" opacity="0.85">
+      <animate attributeName="width" values="0;0;98;98;0;0" keyTimes="0;0.39;0.45;0.90;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- fila 3 -->
+    <rect x="-117" y="29" width="234" height="22" rx="5" fill="#7EE787" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.09;0.09;0;0" keyTimes="0;0.62;0.68;0.90;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-110" y="34" width="12" height="12" rx="3" fill="none" stroke="#4A6B58" stroke-width="1.4"/>
+    <path d="M -107.5 40 l3.2 3.4 l6.3 -7.2" fill="none" stroke="#7EE787" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+      <animate attributeName="stroke-dashoffset" values="16;16;0;0;16;16" keyTimes="0;0.62;0.68;0.90;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <text x="-90" y="43.5" font-size="10.5" fill="#DDE9E1" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Probar en IntelliJ</text>
+    <text x="112" y="43.5" font-size="8.5" fill="#6E8577" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">15 oct</text>
+    <rect x="-90" y="39.5" width="0" height="1.3" fill="#7EE787" opacity="0.85">
+      <animate attributeName="width" values="0;0;94;94;0;0" keyTimes="0;0.64;0.70;0.90;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- progreso + persistencia -->
+    <rect x="-113" y="59" width="226" height="4" rx="2" fill="#1B2B22"/>
+    <rect x="-113" y="59" width="0" height="4" rx="2" fill="#7EE787">
+      <animate attributeName="width" values="0;0;75.3;75.3;150.7;150.7;226;226;0;0" keyTimes="0;0.12;0.18;0.37;0.43;0.62;0.68;0.90;0.96;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="-113" y="74" font-size="8" fill="#6E8577" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Persistencia en archivo local</text>
+  </g>
+  </g>
+
+  <!-- bloque de texto izquierdo -->
+  <g fill="#EAF3ED">
+    <text x="70" y="108" font-size="40" font-weight="700" letter-spacing="0.3">Gestor de Tareas</text>
+  </g>
+  <text x="70" y="138" font-size="15.5" fill="#9DB5A5" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    App de escritorio en JavaFX · añade, edita y completa tareas
+  </text>
+  <text x="70" y="160" font-size="13" fill="#6E8577" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    Interfaz visual con SceneBuilder y persistencia local
+  </text>
+
+  <!-- badges -->
+  <g font-size="13" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="600">
+    <g transform="translate(70,190)">
+      <rect width="76" height="30" rx="15" fill="none" stroke="#ED8B00" stroke-width="1.4"/>
+      <text x="38" y="19" fill="#ED8B00" text-anchor="middle">Java 25</text>
+    </g>
+    <g transform="translate(158,190)">
+      <rect width="102" height="30" rx="15" fill="none" stroke="#5AA9E6" stroke-width="1.4"/>
+      <text x="51" y="19" fill="#5AA9E6" text-anchor="middle">JavaFX 21</text>
+    </g>
+    <g transform="translate(272,190)">
+      <rect width="120" height="30" rx="15" fill="none" stroke="#7EE787" stroke-width="1.4"/>
+      <text x="60" y="19" fill="#7EE787" text-anchor="middle">SceneBuilder</text>
+    </g>
+    <g transform="translate(404,190)">
+      <rect width="112" height="30" rx="15" fill="none" stroke="#B27CE8" stroke-width="1.4"/>
+      <text x="56" y="19" fill="#B27CE8" text-anchor="middle">ControlsFX</text>
+    </g>
+  </g>
+
+  <text x="70" y="256" font-size="13" fill="#5C7466" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    github.com/JJHernan-dev
+  </text>
+
+  <rect width="1200" height="300" fill="url(#vignette4)" pointer-events="none"/>
+</svg>
